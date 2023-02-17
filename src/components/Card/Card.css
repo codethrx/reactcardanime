@@ -1,0 +1,15 @@
+.card {
+  /* width: 50vh; */
+  padding: 1rem;
+  background-color: #23d997;
+  color: white;
+  border-radius: 1rem;
+  /* width: 30rem; */
+  /* min-height: 10vh; */
+}
+p {
+  width: 30rem;
+  margin-top: 20px;
+
+  /* background-color: oldlace; */
+}
